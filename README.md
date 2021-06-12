@@ -14,7 +14,10 @@ The goal of this project is to predict the probability of a Windows Machine gett
 
 * **Python Libraries used:** pandas, numpy, seaborn, matplotlib, sklearn
 
-# [Project 2: Dog breed Classifier](https://github.com/harikiran-mudipalli/ImageClassifierAIPND)
+# [project 2: Flu Shot Learning](https://github.com/harikiran-mudipalli/Flu_Shot_Learning/blob/master/EDA%20and%20Cleaning.ipynb)
+*2020*
+
+# [Project 3: Dog breed Classifier](https://github.com/harikiran-mudipalli/ImageClassifierAIPND)
 *2020*
 
 I Should admit that I'm a dog lover and that motivated me to build this project to classify breed of a dog when a dog image is provided as an Input.
