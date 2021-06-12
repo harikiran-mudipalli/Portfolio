@@ -13,3 +13,8 @@
 The goal of this project is to predict the probability of a Windows Machine getting infected with a malware. The training dataset had around 9 million examples and 80 features on which I have performed Exploratory Data Analysis and Data Cleaning, and applied classification algorithms for predictions.
 
 * **Python Libraries used:** pandas, numpy, seaborn, matplotlib, sklearn
+
+# [Project 2: Dog breed Classifier](https://github.com/harikiran-mudipalli/ImageClassifierAIPND)
+*2020*
+
+I Should admit that I'm a dog lover and that motivated me to build this project to classify breed of a dog when a dog image is provided as an Input.
