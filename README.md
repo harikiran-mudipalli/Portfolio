@@ -9,6 +9,7 @@
 
 # [Project 1: Microsoft Malware Prediction](https://github.com/harikiran-mudipalli/Microsoft_Malware_Detection/blob/master/msmp.ipynb) 
 *2019*
+![alt_text](shahadat-rahman-BfrQnKBulYQ-unsplash.jpg)
 
 The goal of this project is to predict the probability of a Windows Machine getting infected with a malware. The training dataset had around 9 million examples and 80 features on which I have performed Exploratory Data Analysis and Data Cleaning, and applied classification algorithms for predictions.
 
