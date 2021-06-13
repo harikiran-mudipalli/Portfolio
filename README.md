@@ -8,7 +8,7 @@
   *GPA - 7.4 / 10*
 
 # [Project 1: Microsoft Malware Prediction](https://github.com/harikiran-mudipalli/Microsoft_Malware_Detection/blob/master/msmp.ipynb) 
-*2019*
+*Oct 2019*
 
 ![alt_text](markus-spiske-uPXs5Vx5bIg-unsplash.jpg)
 
