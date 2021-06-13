@@ -10,7 +10,7 @@
 # [Project 1: Microsoft Malware Prediction](https://github.com/harikiran-mudipalli/Microsoft_Malware_Detection/blob/master/msmp.ipynb) 
 *2019*
 
-![alt_text](shahadat-rahman-BfrQnKBulYQ-unsplash.jpg)
+![alt_text](markus-spiske-uPXs5Vx5bIg-unsplash.jpg)
 
 photo by <a href="https://unsplash.com/@markusspiske">Markus Spiske</a> on <a href="https://unsplash.com/photos/uPXs5Vx5bIg">Unsplash</a>
 
