@@ -12,6 +12,8 @@
 
 ![alt_text](shahadat-rahman-BfrQnKBulYQ-unsplash.jpg)
 
+photo by <a href="https://unsplash.com/@markusspiske">Markus Spiske</a> on <a href="https://unsplash.com/photos/uPXs5Vx5bIg">
+
 The goal of this project is to predict the probability of a Windows Machine getting infected with a malware. The training dataset had around 9 million examples and 80 features on which I have performed Exploratory Data Analysis and Data Cleaning, and applied classification algorithms for predictions.
 
 * **Python Libraries used:** pandas, numpy, seaborn, matplotlib, sklearn
