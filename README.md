@@ -21,6 +21,7 @@
 integrating the chatbot into the website.
 - Developed a chat bot using Rasa NLU framework to Automate answering customer queries and involved in
 integrating the chatbot into the website.
+- Developed a FaceID login system prototype using openCV
 - Involved in development of the Travel package recommendation system where users are recommended with
 appropriate packages containing hotels, flights, etc., based on user preferences and other general customer
 data.
@@ -37,7 +38,7 @@ The goal of this project is to predict the probability of a Windows Machine gett
 * **Python Libraries used:** pandas, numpy, seaborn, matplotlib, sklearn
 
 # [project 2: Flu Shot Learning](https://github.com/harikiran-mudipalli/Flu_Shot_Learning/blob/master/EDA%20and%20Cleaning.ipynb)
-*2020*
+*Jan 2020*
 
 ![alt_text](sam-moqadam-2rrsfMN4hn8-unsplash.jpg)
 
@@ -47,7 +48,7 @@ photo by <a href="https://unsplash.com/@itssammoqadam">Sam Moqadam
 **Goal:** To predict whether people got H1N1 and seasonal flu vaccines using information they shared about their backgrounds, opinions, and health behaviors
 
 # [Project 3: Dog breed Classifier](https://github.com/harikiran-mudipalli/ImageClassifierAIPND)
-*2020*
+*April 2020*
 
 ![alt_text](andrea-lightfoot-tKWJFY4wAXE-unsplash.jpg)
 
@@ -55,3 +56,6 @@ photo by <a href="https://unsplash.com/@andreaelphotography">Sam Moqadam
 </a> on <a href="https://unsplash.com/photos/tKWJFY4wAXE">Unsplash</a>
 
 I Should admit that I'm a dog lover and that motivated me to build this project to classify breed of a dog when a dog image is provided as an Input.
+
+# [Project 4: FaceID login System using openCV](https://github.com/harikiran-mudipalli/FaceID_Login_openCV)
+*July 2020*
