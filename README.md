@@ -11,7 +11,7 @@
 ## Graduate Research Assistant, May 2021 - *present*
 ### *Kelley School of Business, Indiana University*
 - Working with Special Purpose Acquisition Company (SPAC) and Initial Public Offering (IPO) data to draw insights like gender ratio, educational backgrounds, previous companies, etc.
-- Libraries used: StanfordcoreNLP, Spacy, pandas, numpy
+- Libraries used: StanfordcoreNLP, Spacy, pandas, numpy, Tableau
 - Input: Biography text
 - Output: pandas dataframe with named entity recognized columns like Name, Degree, Institute, etc.
 
