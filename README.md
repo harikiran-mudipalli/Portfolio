@@ -7,6 +7,14 @@
 * Bachelor of Technology in Electronics and Communication Engineering, *CVR College of Engineering, India*, Aug 2015 - June 2019 <br>
   *GPA - 7.4 / 10*
 
+# Experience
+* Graduate Research Assistant, May 2021 - *present*
+* *Kelly School of Business, Indiana University*
+- Working with Special Purpose Acquisition Company (SPAC) and Initial Public Offering (IPO) data to draw insights like gender ratio, educational backgrounds, previous companies, etc.
+- Libraries used: StanfordcoreNLP, Spacy, pandas, numpy
+- Input: Biography text
+- Output: pandas dataframe with named entity recognized columns like Name, Degree, Institute, etc.
+
 # [Project 1: Microsoft Malware Prediction](https://github.com/harikiran-mudipalli/Microsoft_Malware_Detection/blob/master/msmp.ipynb) 
 *Oct 2019*
 
