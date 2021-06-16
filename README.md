@@ -39,6 +39,11 @@ The goal of this project is to predict the probability of a Windows Machine gett
 # [project 2: Flu Shot Learning](https://github.com/harikiran-mudipalli/Flu_Shot_Learning/blob/master/EDA%20and%20Cleaning.ipynb)
 *2020*
 
+![alt_text](sam-moqadam-2rrsfMN4hn8-unsplash.jpg)
+
+photo by <a href="https://unsplash.com/@itssammoqadam">Sam Moqadam
+</a> on <a href="https://unsplash.com/photos/2rrsfMN4hn8">Unsplash</a>
+
 **Goal:** To predict whether people got H1N1 and seasonal flu vaccines using information they shared about their backgrounds, opinions, and health behaviors
 
 # [Project 3: Dog breed Classifier](https://github.com/harikiran-mudipalli/ImageClassifierAIPND)
