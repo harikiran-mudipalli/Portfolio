@@ -62,4 +62,4 @@ I Should admit that I'm a dog lover and that motivated me to build this project 
 
 ![alt_text](02BWye6H4Tdpfi9mystMgsn-1.1569492916.fit_lim.size_1600x900.jpg)
 
-photo from <a href="https://www.pcmag.com/how-to/how-to-log-into-websites-with-face-id-on-iphone-x">Unsplash</a>
+photo from <a href="https://www.pcmag.com/how-to/how-to-log-into-websites-with-face-id-on-iphone-x">pcmag</a>
