@@ -7,7 +7,7 @@
   - *Cumulative GPA - 3.9 / 4*
   - Course work: Applied Algorithms, Introduction to Statistics, Machine Learning for Signal Processing
 * Bachelor of Technology in Electronics and Communication Engineering, *CVR College of Engineering, India*, Aug 2015 - June 2019 <br>
-  *GPA - 7.4 / 10*
+  -*GPA - 7.4 / 10*
 
 # Experience
 ## Graduate Research Assistant, May 2021 - *present*
