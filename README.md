@@ -4,7 +4,8 @@
 # Education
 * Master of Science in Data Science, *Indiana University, Bloomington*, Jan 2021 - Dec 2022 <br>
   *Luddy School of Informatics, Computing, and Engineering*<br>
-  *GPA - 3.9 / 4*
+  - *GPA - 3.9 / 4*
+  - Course work: Applied Algorithms, Introduction to Statistics, Machine Learning for Signal Processing
 * Bachelor of Technology in Electronics and Communication Engineering, *CVR College of Engineering, India*, Aug 2015 - June 2019 <br>
   *GPA - 7.4 / 10*
 
