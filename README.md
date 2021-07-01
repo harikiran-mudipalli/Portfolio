@@ -21,8 +21,6 @@
 ### *Rentastico (OPC) Pvt. Ltd.*
 - Developed a chat bot using Rasa NLU framework to Automate answering customer queries and involved in
 integrating the chatbot into the website.
-- Developed a chat bot using Rasa NLU framework to Automate answering customer queries and involved in
-integrating the chatbot into the website.
 - Developed a FaceID login system prototype using openCV
 - Involved in development of the Travel package recommendation system where users are recommended with
 appropriate packages containing hotels, flights, etc., based on user preferences and other general customer
