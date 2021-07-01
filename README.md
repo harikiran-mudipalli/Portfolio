@@ -17,7 +17,7 @@
 - Input: Biography text
 - Output: pandas dataframe with named entity recognized columns like Name, Degree, Institute, etc.
 
-## Junior Data Scientist (Freelancer),       June 2020 - September 2020
+## Junior Data Scientist (Freelancer),       May 2020 - December 2020
 ### *Rentastico (OPC) Pvt. Ltd.*
 - Developed a chat bot using Rasa NLU framework to Automate answering customer queries and involved in
 integrating the chatbot into the website.
